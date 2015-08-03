@@ -7,6 +7,7 @@ gems:
   - jekyll-sitemap
 
 name: Hannah Casey
+email: hdcasey231@gmail.com
 baseurl: "/hannah_blog"
 description: Hannah's Blog.
 twitter: hannahdcasey
